@@ -357,7 +357,9 @@ input[type="submit"] {
     width:400px;
 }
 
-
+ol, ul {
+    padding-left: 0rem;
+}
 
 @media screen and (max-width: 991px){
 .navbar .navbar-collapse {
