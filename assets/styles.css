@@ -361,6 +361,10 @@ ol, ul {
     padding-left: 0rem;
 }
 
+.imageSize{
+    max-height: 100vh;
+}
+
 @media screen and (max-width: 991px){
 .navbar .navbar-collapse {
     max-height: 360px;
